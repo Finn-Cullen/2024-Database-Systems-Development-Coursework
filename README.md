@@ -111,6 +111,6 @@ Group 12:
 
 - **Finn Cullen**: [GitHub](https://github.com/Finn-Cullen)
 - **Isaac Lawal**: #unknown as of now#
-- **Ethan White**: #unknown as of now#
+- **Ethan White**: [GitHub](https://github.com/Legit-E)
 
 The ERD, data dictionary and reflective analysis were produced collaboratively. Finn Cullen led the SQL implementation.
